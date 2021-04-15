@@ -11,8 +11,8 @@ Any technology user today has benefitted from machine learning. Facial recogniti
 Machine learning is a continuously developing field. Because of this, there are some considerations to keep in mind as you work with machine learning methodologies, or analyze the impact of machine learning processes.
 
 #**Categories of Machine Learning**:
--Supervised learning
--Unsupervised learning
--Semisupervised learning
--Reinforcement learning
+*Supervised learning
+*Unsupervised learning
+*Semisupervised learning
+*Reinforcement learning
 
