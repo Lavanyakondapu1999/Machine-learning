@@ -17,7 +17,7 @@ Machine learning is a continuously developing field. Because of this, there are 
 - Semisupervised learning
 - Reinforcement learning
 
-# Further more information about go through given link :
+## Further more information  go through given link :
 
 (https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861)
 
